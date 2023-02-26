@@ -10,3 +10,5 @@ urlpatterns = [
 # path 의 매개변수 
 # '' : "https://127.0.0.1:8000"
 # views.photo_list : views.py 의 photo_list 함수를 부른다.
+# 깃 커밋
+# 깃 커밋2
